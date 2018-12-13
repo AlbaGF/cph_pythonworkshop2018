@@ -7,6 +7,7 @@ To Run the Exercises Online: [![Binder](https://mybinder.org/badge_logo.svg)](ht
 
 ### Day 0
 Together, we identified many things we wanted to come away with in the course:
+https://ipywidgets.readthedocs.io/en/stable/
 
 ![](images/course_goals.jpg)
 
